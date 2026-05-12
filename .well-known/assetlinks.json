@@ -1,8 +1,11 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.gaochang_bjtu.twa",
-        "sha256_cert_fingerprints": ["B7:83:C1:AE:D6:59:69:8A:EC:6C:F7:B3:EB:EE:5C:C2:05:A5:7D:95:66:DE:DF:AC:7D:C2:C6:C8:41:C9:D6:65"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.gaochang_bjtu.twa",
+    "sha256_cert_fingerprints": [
+      "77:D3:36:5E:C3:93:71:1D:C6:03:60:5F:E2:97:AC:90:49:A3:5E:B0:47:14:4D:FE:FE:42:65:89:BF:60:08:1D",
+      "B7:83:C1:AE:D6:59:69:8A:EC:6C:F7:B3:EB:EE:5C:C2:05:A5:7D:95:66:DE:DF:AC:7D:C2:C6:C8:41:C9:D6:65"
+    ]
+  }
+}]
